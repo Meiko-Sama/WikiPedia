@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(160, 160, 160);
+}
+
+.titulo {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+main h1 {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: justify;
+}
+
+h2 {
+  color: rgb(204, 0, 0);
+  text-align: center;
+  font-size: 30px;
+}
+
+.eggwars {
+  color: rgb(98, 0, 190);
+  text-align: center;
+  font-size: 30px;
+}
